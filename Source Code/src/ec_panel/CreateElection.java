@@ -394,7 +394,7 @@ public class CreateElection extends javax.swing.JFrame implements AppInfo{
 
       Session session = Session.getInstance(properties, new javax.mail.Authenticator(){
         protected PasswordAuthentication getPasswordAuthentication() {
-          return new PasswordAuthentication("election.divs@gmail.com", "kjhtte8-04kiu8er");
+          return new PasswordAuthentication("election.divs@gmail.com", "********");
         }
       });
 
