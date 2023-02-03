@@ -10,7 +10,7 @@ Project Title : Digital Voting System (DiVS)
 ## Installation Process
 
 ### Step 1
-![click](images/divs.png)
+![click](images/divs1.png)
 
 ### Step 2
 ![click](images/divs2.png)
@@ -27,13 +27,20 @@ Project Title : Digital Voting System (DiVS)
 ### Step 6
 ![click](images/divs6.png)
 
+### Step 7
+![click](images/divs7.png)
 
 
 
-### User Panel
-![click1](images/userpanel.png)
-### Login for Result
-![click2](images/semesterresultlogin.png)
+
+## Create Election
+
+This application is useful for maximum 5 designation/post per election.
+![click1](images/divs8.png)
+
+Enter candidate number from 2 to 7 for each post.
+![click2](images/divs9.png)
+
 ### Semester Result
 ![click3](images/semesterresult.png)
 
