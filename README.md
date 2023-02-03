@@ -45,9 +45,21 @@ This application is useful for maximum 5 designation/post per election.
 Enter candidate number from 2 to 7 for each post.
 ![click2](images/divs9.png)
 
-### Semester Result
-![click3](images/semesterresult.png)
+## EC Login
+![click3](images/divs10.png)
+
+![click3](images/divs11.png)
+
+## Vote Booth
+
+![click3](images/divs12.png)
+
+![click3](images/divs13.png)
+
+## Election Result
+
+![click3](images/divs14.png)
 
 ```
-Thanks to visit the NSTU-EasyClub repository...
+Thanks to visit this DiVS repository...
 ```
