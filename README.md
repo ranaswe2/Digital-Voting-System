@@ -9,6 +9,10 @@ Project Title : Digital Voting System (DiVS)
 ```
 ## Installation Process
 
+### Step 0
+
+![Download](https://github.com/ranaswe2/Digital-Voting-System/releases/tag/v1.0-beta) the Application
+
 ### Step 1
 ![click](images/divs1.png)
 
