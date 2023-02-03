@@ -61,5 +61,5 @@ Enter candidate number from 2 to 7 for each post.
 ![click3](images/divs14.png)
 
 ```
-Thanks to visit this DiVS repository...
+Thanks to visit this DiVS repository.
 ```
